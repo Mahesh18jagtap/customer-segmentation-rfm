@@ -1,12 +1,12 @@
-﻿Customer Segmentation using RFM Analysis & K-Means Clustering
-Project Overview
+# ﻿Customer Segmentation using RFM Analysis & K-Means Clustering
+# Project Overview
 
 This project performs customer segmentation using the RFM (Recency, Frequency, Monetary) framework combined with K-Means clustering.
 The goal is to analyze customer purchasing behavior and group customers into meaningful segments that can be used for targeted marketing and retention strategies.
 
 The dataset contains three years of retail sales transaction data.
 
- Problem Statement
+# Problem Statement
 
 Businesses often struggle to identify:
 
@@ -18,7 +18,7 @@ New or low-engagement customers
 
 This project addresses this problem by segmenting customers based on their transaction history.
 
-🗂 Dataset
+#  Dataset
 
 Source: Kaggle – Sample Sales Data
 
@@ -26,7 +26,7 @@ Time Period: 3 years
 
 Data Type: Retail transaction data
 
- Methodology
+# Methodology
 1. Data Cleaning & Preparation
 
 Removed irrelevant columns
@@ -53,7 +53,7 @@ Used the Elbow Method to determine optimal number of clusters
 
 Selected 4 customer segments
 
-Customer Segments Identified
+# Customer Segments Identified
 
 Active – High-value, frequent, and recent customers
 
@@ -63,7 +63,7 @@ Departing – Previously valuable customers with declining activity
 
 Inactive – Low engagement and low spending customers
 
-Visualizations
+# Visualizations
 
 Sales distribution and trend plots
 
@@ -71,7 +71,7 @@ Elbow plot for cluster selection
 
 3D scatter plots for customer clusters
 
- Final Output
+# Final Output
 
 Generated a CSV file containing customer segments
 
