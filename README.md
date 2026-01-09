@@ -103,5 +103,14 @@ Supports re-engagement strategies for at-risk customers
 
 Enables data-driven marketing decisions
 
+<img width="1366" height="745" alt="Figure 1 09-01-2026 10_22_17 AM" src="https://github.com/user-attachments/assets/f39a6b29-740b-41dd-b6a6-91c6d4f420f7" />
+
+<img width="1366" height="745" alt="Figure 1 09-01-2026 10_22_38 AM" src="https://github.com/user-attachments/assets/86f91038-8bc0-4004-8afc-4ea27f86b9e2" />
+
+<img width="1366" height="767" alt="customers_segments - Excel 09-01-2026 09_59_07 AM" src="https://github.com/user-attachments/assets/5fab8866-3cbd-426b-b807-10c4f0809095" />
+
+
+
+
 
 
